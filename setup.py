@@ -113,7 +113,7 @@ _deps = [
     "torchsde",
     "note_seq",
     "librosa",
-    "numpy",
+    "numpy==1.13.3",
     "parameterized",
     "peft>=0.6.0",
     "protobuf>=3.20.3,<4",
